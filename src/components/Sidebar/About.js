@@ -20,7 +20,7 @@ const About = () => {
           className="img"
         />
         <p>Find the best free educational resources on your favourite topic.</p>
-        <p>Revista is free and open-source forever.</p>
+        <p>HomeMe is free and open-source forever.</p>
         <SocialLinks className="sidebar-icons" />
       </Wrapper>
     </SidebarCard>

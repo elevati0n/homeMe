@@ -52,10 +52,10 @@ const SEO = ({ title, description, image, article }) => {
         {
           "@context": "https://schema.org/",
           "@type": "Organization",
-          "description: "Free and Revista Resources",
-          "url": "https://revista-gatsby-blog-magazine.one",
-          "homepage": "https://revista-gatsby-blog-magazine.one",
-          "name": "Revista",
+          "description: "Free and HomeMe Resources",
+          "url": "https://HomeMe-gatsby-blog-magazine.one",
+          "homepage": "https://HomeMe-gatsby-blog-magazine.one",
+          "name": "HomeMe",
           "email": "mailto:opendotone@gmail.com",
           "contactPoint": {
             "@type": "ContactPoint",

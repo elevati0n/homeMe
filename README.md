@@ -10,18 +10,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine">
+  <a href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine">
     <img src="src/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Revista</h3>
+  <h3 align="center">HomeMe</h3>
 
   <p align="center">
     Open-source Gatsby Magazine/Blog template
     <br />
-    <a href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/issues">Report Bug</a>
+    <a href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/issues">Report Bug</a>
     ·
-    <a href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/issues">Request Feature</a>
+    <a href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/issues">Request Feature</a>
   </p>
     <br />
 </div>
@@ -30,7 +30,7 @@
 
 - [About The Project](#about-the-project)
 - [Built With](#built-with)
-- [Revista? Here is our tl:dr](#revista-here-is-our-tldr)
+- [HomeMe? Here is our tl:dr](#HomeMe-here-is-our-tldr)
 - [Quick Start](#quick-start)
 - [Guide to Article Metadata](#guide-to-article-metadata)
 - [How to Customize](#how-to-customize)
@@ -45,7 +45,7 @@
   - [1. How do I change the Hero categories?](#1-how-do-i-change-the-hero-categories)
   - [2. Do the names of the folders in `/content` mean anything?](#2-do-the-names-of-the-folders-in-content-mean-anything)
   - [3. How do I change the GraphQL queries?](#3-how-do-i-change-the-graphql-queries)
-  - [4. Why are there so many warnings when I run Revista locally?](#4-why-are-there-so-many-warnings-when-i-run-revista-locally)
+  - [4. Why are there so many warnings when I run HomeMe locally?](#4-why-are-there-so-many-warnings-when-i-run-HomeMe-locally)
 - [Usage](#usage)
 - [License](#license)
 - [Usage Agreement](#usage-agreement)
@@ -56,15 +56,15 @@
 
 ## About The Project
 
-[![Revista Screen Shot][opened-ed-screenshot]](https://opened.one)
+[![HomeMe Screen Shot][opened-ed-screenshot]](https://opened.one)
 
-Revista is an MIT licensed open-source magazine/blog template, built using React and Gatsby.
+HomeMe is an MIT licensed open-source magazine/blog template, built using React and Gatsby.
 
 **FYI**: If you were a user of https://opened.one (no longer in use), be aware that we've moved all of our old articles to the Open Mastery blog (https://openmastery.one), which contains free and open-source text-based courses. If this doesn't sound familiar to you, don't worry about it 😊 Essentially, we converted our old site into this Gatsby template for all to use.
 
-At the moment, Revista is a very opinionated template. We originally made specific changes to suit our interests and needs, and now that we are open-sourcing our template, some of these opinionated choices remain.
+At the moment, HomeMe is a very opinionated template. We originally made specific changes to suit our interests and needs, and now that we are open-sourcing our template, some of these opinionated choices remain.
 
-We've listed customization instruction in [How to Customize](#how-to-customize). Apart from changing basic metadata, further customization will require knowledge of React, Gatsby, and GraphQL. However, if you are happy with Revista as-is, it is (mostly) set up to begin publishing articles right away!
+We've listed customization instruction in [How to Customize](#how-to-customize). Apart from changing basic metadata, further customization will require knowledge of React, Gatsby, and GraphQL. However, if you are happy with HomeMe as-is, it is (mostly) set up to begin publishing articles right away!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +76,7 @@ We've listed customization instruction in [How to Customize](#how-to-customize).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Revista? Here is our tl:dr
+## HomeMe? Here is our tl:dr
 
 1. Open-source blog or magazine template built with Gatsby, React, and Markdown
 2. Many out-of-the-box configurations have already been completed, so all you have to do is make a few small adjustments (keep reading) and write articles.
@@ -129,15 +129,15 @@ See any existing `.md` file in `/content` for an example of metadata.
 
 `category`: **Mandatory**.
 
-`trending`: **Optional.** Displays article in "Featured" section. <a href='https://revista.mesmerdesign.ca/'>See demo site</a> for how this is displayed.
+`trending`: **Optional.** Displays article in "Featured" section. <a href='https://HomeMe.mesmerdesign.ca/'>See demo site</a> for how this is displayed.
 
-`topPick`: **Optional.** Displays article in "Featured" section. <a href='https://revista.mesmerdesign.ca/'>See demo site</a> for how this is displayed.
+`topPick`: **Optional.** Displays article in "Featured" section. <a href='https://HomeMe.mesmerdesign.ca/'>See demo site</a> for how this is displayed.
 
-`popular`: **Optional.** Displays article in "Featured" section. <a href='https://revista.mesmerdesign.ca/'>See demo site</a> for how this is displayed.
+`popular`: **Optional.** Displays article in "Featured" section. <a href='https://HomeMe.mesmerdesign.ca/'>See demo site</a> for how this is displayed.
 
 ## How to Customize
 
-In order to turn Revista into your own blog or magazine, you'll have to make some changes. Let's discuss them here.
+In order to turn HomeMe into your own blog or magazine, you'll have to make some changes. Let's discuss them here.
 
 ### 1. Modify `gatsby-config.js` to contain your information, not ours
 
@@ -214,15 +214,15 @@ If using Netlify, add your API key to the Netlify app as well.
 
 ## Roadmap
 
-- [x] Convert opened.one to Revista template
-- [x] Launch Revista, free forever
+- [x] Convert opened.one to HomeMe template
+- [x] Launch HomeMe, free forever
 - [ ] Improve Documentation
 - [ ] Clean up messy code
 - [ ] Drink more coffee
 - [ ] Multi-language Support
-- [ ] What else would you like to see? [Open an issue](https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/issues)!
+- [ ] What else would you like to see? [Open an issue](https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/issues)!
 
-See the [open issues](https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,7 +248,7 @@ Once your site is running locally, navigate to http://localhost:8000/\_\_\_graph
 
 You may prefer to store them all in a separate file, but we like to keep everything organized together.
 
-### 4. Why are there so many warnings when I run Revista locally?
+### 4. Why are there so many warnings when I run HomeMe locally?
 
 Most of these warnings are easy to remove - they are `<a>` tags with a placeholder `href`, or they are unused imports or GraphQL queries. Everything will still compile and run perfectly fine, and I decided to leave those warnings there since you may have a use for them. I.e. the unused GraphQL imports.
 
@@ -260,9 +260,9 @@ One warning has to do with CSS modules. This is on the list of to-do's, and will
 
 ## Usage
 
-Revista is a Markdown + Gatsby blog/magazine starter, and can be hosted for free on sites like Netlify. I'm proud of my design, and i'd love to see other sites using it.
+HomeMe is a Markdown + Gatsby blog/magazine starter, and can be hosted for free on sites like Netlify. I'm proud of my design, and i'd love to see other sites using it.
 
-You're welcome to fork Revista and use it for your own site. You are not required to publish your code, you are only required to give credit (per MIT license).
+You're welcome to fork HomeMe and use it for your own site. You are not required to publish your code, you are only required to give credit (per MIT license).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -280,7 +280,7 @@ By forking our repository and using it for your own purposes, we require two thi
 
 **1. You MUST adhere to our MIT license**
 
-**What does this mean?** MIT is a very permissive license, and you are free to fork, modify, and redistribute as you please. We simply require you to give credit to either 1) Chris, Revista's creator, by linking to Revista's Github repo, or 2) <a href='https://mesmerdesign.ca' target='_blank' rel='noopener noreferrer'>Mesmer Design</a>, Chris' web development company.
+**What does this mean?** MIT is a very permissive license, and you are free to fork, modify, and redistribute as you please. We simply require you to give credit to either 1) Chris, HomeMe's creator, by linking to HomeMe's Github repo, or 2) <a href='https://mesmerdesign.ca' target='_blank' rel='noopener noreferrer'>Mesmer Design</a>, Chris' web development company.
 
 **2. You must delete all content in the `/content` folder**
 
@@ -294,7 +294,7 @@ We've left some old files there so that you can see how to structure the `.md` a
 
 Chris (primary maintainer) - mesmerdesignca@gmail.com
 
-Project Link: [https://github.com/chrisnmorrison/revista-gatsby-blog-magazine](https://github.com/chrisnmorrison/revista-gatsby-blog-magazine)
+Project Link: [https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine](https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -313,16 +313,16 @@ Project Link: [https://github.com/chrisnmorrison/revista-gatsby-blog-magazine](h
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/chrisnmorrison/revista-gatsby-blog-magazine.svg?style=for-the-badge
-[contributors-url]: https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/chrisnmorrison/revista-gatsby-blog-magazine.svg?style=for-the-badge
-[forks-url]: https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/network/members
-[stars-shield]: https://img.shields.io/github/stars/chrisnmorrison/revista-gatsby-blog-magazine.svg?style=for-the-badge
-[stars-url]: https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/chrisnmorrison/revista-gatsby-blog-magazine.svg?style=for-the-badge
-[issues-url]: https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/issues
-[license-shield]: https://img.shields.io/github/license/chrisnmorrison/revista-gatsby-blog-magazine.svg?style=for-the-badge
-[license-url]: https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/chrisnmorrison/HomeMe-gatsby-blog-magazine.svg?style=for-the-badge
+[contributors-url]: https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/chrisnmorrison/HomeMe-gatsby-blog-magazine.svg?style=for-the-badge
+[forks-url]: https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/network/members
+[stars-shield]: https://img.shields.io/github/stars/chrisnmorrison/HomeMe-gatsby-blog-magazine.svg?style=for-the-badge
+[stars-url]: https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/chrisnmorrison/HomeMe-gatsby-blog-magazine.svg?style=for-the-badge
+[issues-url]: https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/issues
+[license-shield]: https://img.shields.io/github/license/chrisnmorrison/HomeMe-gatsby-blog-magazine.svg?style=for-the-badge
+[license-url]: https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chris-morrison-180072/
 [opened-ed-screenshot]: src/assets/landing-screenshot.jpeg

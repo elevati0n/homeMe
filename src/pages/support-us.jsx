@@ -11,8 +11,8 @@ const Support = () => {
     <Layout>
       <Wrapper>
         <Seo
-          title="Support Us | Revista"
-          description="There are several ways you can support Revista"
+          title="Support Us | HomeMe"
+          description="There are several ways you can support HomeMe"
         />
         <div className="container support-container">
           <div className="row">
@@ -22,7 +22,7 @@ const Support = () => {
               <p>
                 We are also an{' '}
                 <a
-                  href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine"
+                  href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -53,8 +53,8 @@ const Support = () => {
                 <div>
                   <h2 className="support-title">Buy Me a Coffee</h2>
                   <p>
-                    Support Revista's founder and primary maintainer. Part of
-                    your donations go to maintaining Revista, as well as the
+                    Support HomeMe's founder and primary maintainer. Part of
+                    your donations go to maintaining HomeMe, as well as the
                     other education promoting services that Chris created, like{' '}
                     <a
                       href="https://openmastery.one"
@@ -80,7 +80,7 @@ const Support = () => {
                 <div>
                   <a
                     className="support-link"
-                    href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/blob/main/CONTRIBUTING.md"
+                    href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/blob/main/CONTRIBUTING.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -94,7 +94,7 @@ const Support = () => {
                 <div>
                   <h2 className="support-title">Improve & Enhance our Code</h2>
                   <p>
-                    Revista is an open-source blog/magazine template, and is
+                    HomeMe is an open-source blog/magazine template, and is
                     ready for you to add your articles! If you'd like to help us
                     improve, feel free to open an issue, or check out the
                     currently open issues on Github. We use Markdown, GraphQL,
@@ -103,14 +103,14 @@ const Support = () => {
                   </p>
                   <p>
                     Don't forget to{' '}
-                    <a href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine">
+                    <a href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine">
                       star me on Github
                     </a>
                     !
                   </p>
                   <a
                     className="support-link"
-                    href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/blob/main/CONTRIBUTING.md"
+                    href="https://github.com/chrisnmorrison/HomeMe-gatsby-blog-magazine/blob/main/CONTRIBUTING.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -143,11 +143,11 @@ const Support = () => {
         <div className="blockquote-wrapper">
           <div className="blockquote">
             <h3>
-              Revista will remain free forever. Thank you to all of our
+              HomeMe will remain free forever. Thank you to all of our
               supporters and maintainers!
               <br aria-hidden="true" />
               <br aria-hidden="true" />
-              Best of all, Revista is completely open source! Anyone can
+              Best of all, HomeMe is completely open source! Anyone can
               contribute, or if you have grander ideas, clone our project and
               create your own dream project. Let's build off of each other to
               create amazing, meaningful online services.
@@ -156,7 +156,7 @@ const Support = () => {
               &mdash; <strong>Chris Morrison</strong>
               <br aria-hidden="true" />
               <em>
-                Creator of Revista &amp; owner of <br aria-hidden="true" />
+                Creator of HomeMe &amp; owner of <br aria-hidden="true" />
                 <a
                   href="https://mesmerdesign.ca"
                   className="support-link"

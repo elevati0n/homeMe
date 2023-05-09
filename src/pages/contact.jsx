@@ -7,7 +7,7 @@ const contact = () => {
   return (
     <Layout>
       <Seo
-        title="Contact Us | Revista"
+        title="Contact Us | HomeMe"
         description="Reach out for any inquiries, or find out how you can help our mission!"
       />
       <ContactForm />
